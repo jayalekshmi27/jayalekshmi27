@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on Data science
 - 📫 How to reach me...through my mailid:jayalekshmi604@gmail.com
 
-<!---
-jayalekshmi27/jayalekshmi27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello!!!!👋Iam Jayalekshmi.I was actually a Physicist by profession.Now I know all of you are wondering about why Iam here.But yes,due to my 
