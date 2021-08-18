@@ -11,12 +11,16 @@ Now Iam developing my skills of recording,storing and analyzing data to effectiv
 Iam utilizing this platform of GitHub 👀to manage my code,version control and collaborate with others
 
 My Acheivements:
+
 -> My sololearn Profile:https://www.sololearn.com/profile/21889933
+
 ->My Hackerrank profile:https://www.hackerrank.com/jayalekshmi604
 
 
 
 Connect with me:
+
 My mailID: jayaleksmi604@gmail.com
+
 My Linkedin: https://www.linkedin.com/in/jaya-lekshmi-b27401175
 
